@@ -313,6 +313,13 @@ section a {
   display: inline;
   text-decoration: none;
   background: #FFF;
+  padding: 20px 20px 0 20px;
+}
+
+.last-shoe {
+  margin-right: 2%;
+  padding-bottom: 9px;
+  /* border: 0; */
 }
 /********** Details **********/
 
